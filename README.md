@@ -6,6 +6,7 @@ Follow the instructions to install it.
 
 cd
 pkg install python2
+
 cd Emailboom
 
 ls
